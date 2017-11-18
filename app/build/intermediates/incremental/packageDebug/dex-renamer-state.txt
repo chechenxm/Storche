@@ -1,0 +1,7 @@
+#Sat Nov 18 12:45:00 CST 2017
+base.0=H\:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4125bf4207eda50a37ac3d337882bdf4084bb6b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=H\:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_50cb90e88923c71b5068dd30834736a07cf90d0f\\classes.dex
+base.1=H\:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_50cb90e88923c71b5068dd30834736a07cf90d0f
+file.0=H\:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4125bf4207eda50a37ac3d337882bdf4084bb6b\\classes.dex

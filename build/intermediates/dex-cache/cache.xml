@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.SG-20171015JFKS\.android\build-cache\cb3838166ed02723bc285912d2020d5c27b221cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="H:\code\AndroidStudioProjects\Storche\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_800b195f4df1065954cbd3e618132d5484553580\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\code\AndroidStudioProjects\Storche\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee4b6165b2e0047cb7122bb956afbc726b395bc8">
+        <dex dex="H:\code\AndroidStudioProjects\Storche\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d4125bf4207eda50a37ac3d337882bdf4084bb6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.SG-20171015JFKS\.android\build-cache\83a65371decc584668d83aaec21eacf841766030\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="H:\code\AndroidStudioProjects\Storche\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3121b8566f81bdd40f3e696398a4d1ecd1f1f32c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\code\AndroidStudioProjects\Storche\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="H:\code\AndroidStudioProjects\Storche\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_50cb90e88923c71b5068dd30834736a07cf90d0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.SG-20171015JFKS\.android\build-cache\561442fa5e77d3b4977e789ad226e1630809b6c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5094eccf53998e9bcacfb85f80e7607b39b093fd">
+        <dex dex="H:\code\AndroidStudioProjects\Storche\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85728a1a347ac5851f178a8166af804a308f3abf\classes.dex" />
+    </item>
+
+</items>

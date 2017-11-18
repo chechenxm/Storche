@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "H:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Administrator.SG-20171015JFKS\\.android\\build-cache\\d5a963048e3cea03eb1fd308cb5526f24e624007\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "H:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator.SG-20171015JFKS\\.android\\build-cache\\efdd2ef7bce17d78fc7f04f40f8610069f9ef348\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "H:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator.SG-20171015JFKS\\.android\\build-cache\\efdd2ef7bce17d78fc7f04f40f8610069f9ef348\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "H:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator.SG-20171015JFKS\\.android\\build-cache\\d5a963048e3cea03eb1fd308cb5526f24e624007\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "H:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Administrator.SG-20171015JFKS\\.android\\build-cache\\d5a963048e3cea03eb1fd308cb5526f24e624007\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "H:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Administrator.SG-20171015JFKS\\.android\\build-cache\\efdd2ef7bce17d78fc7f04f40f8610069f9ef348\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "H:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Administrator.SG-20171015JFKS\\.android\\build-cache\\efdd2ef7bce17d78fc7f04f40f8610069f9ef348\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "H:\\code\\AndroidStudioProjects\\Storche\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator.SG-20171015JFKS\\.android\\build-cache\\d5a963048e3cea03eb1fd308cb5526f24e624007\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    }
+]
